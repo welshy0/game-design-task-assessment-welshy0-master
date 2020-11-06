@@ -1,0 +1,1 @@
+Please store the assets you create in this folder using an appropriate file hierarchy (e.g. Animations, Materials, Prefabs, etc.).
